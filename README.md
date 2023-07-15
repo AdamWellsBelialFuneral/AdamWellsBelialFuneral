@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdamWellsBelialFuneral
+- 👋 Hi, I’m **@AdamWellsBelialFuneral**
 - 👀 I’m interested in **backend development**
 - 🌱 I’m currently learning **React.js/Next.js/Vite.js/Javascript**
 - 💞️ I’m looking to collaborate on ... _i don't know yet_

@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... _i don't know yet_
 - 📫 How to reach me ...
 
+I'm currently learning Flet and BeeWare (for Android)
+
 I've used Python, React, and Firebase in some small study projects. Know a thing or another about Vite and Next and recently tried Godot a bit
 
 Till now I have made a simple chat app with React + Firebase (Realtime Database and Google auth) and I'm working on a simple social media app to showcase in a portfolio in the future
